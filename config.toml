@@ -16,6 +16,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [author]
   name = "Olivier Brewaeys"
 
+[info]
+  description = "Olivier Brewaeys (olbrew) is a software engineer turned digital product owner with an interest in security and privacy"
+
 [blackfriday]
   # hrefTargetBlank = true
   # noreferrerLinks = true
@@ -36,7 +39,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Software engineer with keen interest in security and privacy"
+  homeSubtitle = "Software engineer turned digital product owner with an interest in security and privacy"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
