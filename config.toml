@@ -17,7 +17,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   name = "Olivier Brewaeys"
 
 [info]
-  description = "Olivier Brewaeys (olbrew) is a software engineer turned digital product owner with an interest in security and privacy"
+  description = "Olivier Brewaeys (olbrew) is a freelance project manager with an interest in security and privacy"
 
 [blackfriday]
   # hrefTargetBlank = true
