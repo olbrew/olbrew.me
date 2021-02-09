@@ -6,7 +6,9 @@ draft: false
 
 Hello world, I'm Olivier.
 
-I’m a product- & project manager with a technical background. I've delivered software products from start to finish for startups and multinationals alike. Building and working with a technical team to deliver great products is where I am at my best. Experienced along the project lifecycle in agile project management, technical architecture, requirements gathering & analysis, product design, software development & dev-ops, hiring, applying scrum methodology and more.
+I’m a **product- & project manager with a technical background**. I've delivered software products from start to finish for startups and multinationals alike. Building and working with a technical team to deliver great products is where I am at my best.
+
+Experienced along the project lifecycle as a product, project & engineering manager. Responsibilities included agile project management, technical architecture, business analysis, technical analysis, product design, software engineering & dev-ops, hiring, DPO, applying scrum methodology and more.
 
 A great user experience, security and maintainable code are important for me and contribute to both the end-user and developers’ happiness.
 
