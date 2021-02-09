@@ -17,7 +17,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   name = "Olivier Brewaeys"
 
 [info]
-  description = "Olivier Brewaeys is a freelance project manager working to improve the state of security and privacy in IT"
+  description = "Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -35,11 +35,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Olivier Brewaeys is a freelance project manager working to improve the state of security and privacy in IT"
+  description = "Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT"
   # images = [""]
   themeColor = "#313c54"
 
-  homeSubtitle = "Freelance product owner & project manager"
+  homeSubtitle = "Freelance product- & project-manager"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
