@@ -6,12 +6,11 @@ draft: false
 
 Hello world, I'm Olivier.
 
-I'm a **freelance product owner & project manager** whose experience lies in leading technical teams and providing technical guidance. I’m at my best translating business needs into technological solutions with and for a team.
+I’m a product- & project manager with a technical background. I've delivered software products from start to finish for startups and multinationals alike. Building and working with a technical team to deliver great products is where I am at my best. Experienced along the project lifecycle in agile project management, technical architecture, requirements gathering & analysis, product design, software development & dev-ops, hiring, applying scrum methodology and more.
 
 A great user experience, security and maintainable code are important for me and contribute to both the end-user and developers’ happiness.
 
-I am ambitious and driven with a never-ending curiosity which always keeps me learning.
-
+I am ambitious and driven with an inexhaustible curiosity which always keeps me learning.
 My interests are broad but my main passion lies in **improving the state of privacy and security in IT.**
 
 In my spare time I like to be outdoors, preferably in nature, and staying active.
