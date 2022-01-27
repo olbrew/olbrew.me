@@ -2,7 +2,6 @@ baseURL = "https://olbrew.me"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Olivier Brewaeys"
-theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -12,6 +11,11 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
+
+[module]
+  [[module.imports]]
+    path = "github.com/olbrew/hermit"
+    #path = "github.com/gohugoio/hugo-mod-heroicons"
 
 [author]
   name = "Olivier Brewaeys"
