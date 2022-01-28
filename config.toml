@@ -23,13 +23,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [info]
   description = "Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT"
 
-[blackfriday]
-  # hrefTargetBlank = true
-  # noreferrerLinks = true
-  # nofollowLinks = true
-
 [taxonomies]
   tag = "tags"
+  series = 'series'
   # Categories are disabled by default.
 
 [params]
@@ -40,6 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Metadata mostly used in document's head
   description = "Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT"
+  title = "Olivier Brewaeys"
   # images = [""]
   themeColor = "#313c54"
 
@@ -73,7 +70,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [menu]
 
-  [[menu.main]]
+  #[[menu.main]]
     #name = "Posts"
     #url = "posts/"
     #weight = 10

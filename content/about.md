@@ -1,8 +1,9 @@
----
-title: "About"
-date: 2021-01-04T23:19:21+01:00
-draft: false
----
++++
+title = "About - Olivier Brewaeys"
+description = "About - Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT"
+date = 2021-01-04T23:19:21+01:00
+draft = false
++++
 
 Hello world, I'm Olivier.
 
