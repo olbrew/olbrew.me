@@ -83,3 +83,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "CV"
     url = "Resume-Olivier-Brewaeys.pdf"
+
+# Add trusted domains for Content Security Policy
+# https://blog.jeremylikness.com/blog/create-content-security-policy-csp-in-hugo/
+[params.csp]
+    content = "script-src 'strict-dynamic' 'unsafe-inline' https://gc.zgo.at; http: https:; img-src https://olbrew.goatcounter.com/count; object-src: 'none'; base-uri: 'none';"
