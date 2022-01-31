@@ -87,4 +87,4 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # Add trusted domains for Content Security Policy
 # https://blog.jeremylikness.com/blog/create-content-security-policy-csp-in-hugo/
 [params.csp]
-    content = "script-src 'strict-dynamic' 'unsafe-inline' https://gc.zgo.at; http: https:; img-src https://olbrew.goatcounter.com/count; object-src: 'none'; base-uri: 'none';"
+    content = "script-src 'strict-dynamic' 'unsafe-inline' https://gc.zgo.at; img-src https://olbrew.goatcounter.com/count; object-src 'none'; base-uri 'none';"
