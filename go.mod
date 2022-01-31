@@ -2,6 +2,6 @@ module github.com/olbrew/olbrew.me
 
 go 1.17
 
-require github.com/olbrew/hermit v1.2.3-0.20220128200604-5222e11d1a1e // indirect
+require github.com/olbrew/hermit v1.3.0 // indirect
 
 // replace github.com/olbrew/hermit => /Users/o/Developer/web/hermit
