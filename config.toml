@@ -40,7 +40,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#313c54"
 
-  homeSubtitle = "Freelance product- & project-manager"
+  homeSubtitle = "Freelance, SAFe certified, software product manager"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
