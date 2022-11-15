@@ -40,7 +40,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#313c54"
 
-  homeSubtitle = "Freelance, SAFe certified, software product manager"
+  homeSubtitle = "Freelance software product manager"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -56,10 +56,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/olbrew"
-
-  [[params.social]]
     name = "github"
     url = "https://github.com/olbrew"
 
@@ -67,6 +63,13 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "linkedin"
     url = "https://www.linkedin.com/in/olbrew/"
 
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/olbrew"
+
+  [[params.social]]
+    name = "mastodon"
+    url = "https://mastodon.social/@ob"
 
 [menu]
 
