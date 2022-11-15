@@ -1,0 +1,47 @@
+baseURL: https://olbrew.me
+languageCode: en-us
+defaultContentLanguage: en
+title: Olivier Brewaeys
+pygmentsCodefences: true
+pygmentsUseClasses: true
+rssLimit: 10
+copyright: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+enableEmoji: true
+module:
+  imports:
+    - path: github.com/olbrew/hermit
+author:
+  name: Olivier Brewaeys
+info:
+  description: Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT
+taxonomies:
+  tag: tags
+  series: series
+params:
+  dateform: Jan 2, 2006
+  dateformShort: Jan 2
+  dateformNum: "2006-01-02"
+  dateformNumTime: 2006-01-02 15:04 -0700
+  description: Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT
+  title: Olivier Brewaeys
+  themeColor: '#313c54'
+  homeSubtitle: Freelance software product manager
+  footerCopyright: ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  justifyContent: false
+  social:
+    - name: github
+      url: https://github.com/olbrew
+    - name: linkedin
+      url: https://www.linkedin.com/in/olbrew/
+    - name: twitter
+      url: https://twitter.com/olbrew
+    - name: mastodon
+      url: https://mastodon.social/@ob
+  csp:
+    content: script-src 'strict-dynamic' 'unsafe-inline' https://gc.zgo.at; img-src https://olbrew.goatcounter.com/count; object-src 'none'; base-uri 'none';
+menu:
+  main:
+    - name: About
+      url: about/
+    - name: CV
+      url: Resume-Olivier-Brewaeys.pdf
