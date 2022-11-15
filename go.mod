@@ -4,4 +4,4 @@ go 1.17
 
 require github.com/olbrew/hermit v1.3.0 // indirect
 
-// replace github.com/olbrew/hermit => /Users/o/Developer/web/hermit
+//replace github.com/olbrew/hermit => /Users/o/Developer/web/hermit
