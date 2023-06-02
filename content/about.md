@@ -21,6 +21,6 @@ All the better if I can combine the two. I love skiing and kitesurfing when the 
 When it doesn't I like running, cycling or swimming and try to improve myself by participating in
 marathons, triatlons and trailrunning competitions.
 
-You can find my full cv on [LinkedIn](https://www.linkedin.com/in/olbrew/) or here in a [PDF](/Resume-Olivier-Brewaeys.pdf).
+You can find my full cv on [LinkedIn](https://www.linkedin.com/in/olbrew/) or here in a [PDF](/CV-OlivierBrewaeys-2023.pdf).
 
 If you like to contact me, send me an email at **[olivier at olbrew dot me]** or DM me on [Twitter](https://twitter.com/olbrew).
