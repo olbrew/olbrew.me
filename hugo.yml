@@ -12,8 +12,6 @@ module:
   imports:
     - path: github.com/olbrew/hermit
 
-author:
-  name: Olivier Brewaeys
 info:
   description: Olivier Brewaeys is a freelance product manager working to improve the state of security and privacy in IT
 
@@ -22,6 +20,8 @@ taxonomies:
   series: series
 
 params:
+  author:
+    name: Olivier Brewaeys
   dateform: Jan 2, 2006
   dateformShort: Jan 2
   dateformNum: "2006-01-02"
