@@ -4,3 +4,5 @@ github.com/olbrew/hermit v1.3.1-0.20221115153250-37cb9226c91d h1:/61UI1kJXu4GG+o
 github.com/olbrew/hermit v1.3.1-0.20221115153250-37cb9226c91d/go.mod h1:NMEGXdNoHBD6Ghzs41TeuozHwRvMel0+3PtA2l1Y7ig=
 github.com/olbrew/hermit v1.3.1-0.20240428193932-0c27dec0ce3f h1:XUTKTAmW2tqa71vPPodqeajn2CfV6zdFeiA+9G7Duec=
 github.com/olbrew/hermit v1.3.1-0.20240428193932-0c27dec0ce3f/go.mod h1:NMEGXdNoHBD6Ghzs41TeuozHwRvMel0+3PtA2l1Y7ig=
+github.com/olbrew/hermit v1.3.1-0.20240428202454-3a0148e1c758 h1:y4Q9MNDR9HUOzfFEukXq1AZzz/Q2wBnrtvRazakM7WI=
+github.com/olbrew/hermit v1.3.1-0.20240428202454-3a0148e1c758/go.mod h1:NMEGXdNoHBD6Ghzs41TeuozHwRvMel0+3PtA2l1Y7ig=
