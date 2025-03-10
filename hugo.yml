@@ -37,8 +37,6 @@ params:
       url: https://github.com/olbrew
     - name: linkedin
       url: https://www.linkedin.com/in/olbrew/
-    - name: twitter
-      url: https://twitter.com/olbrew
     - name: mastodon
       url: https://mastodon.social/@ob
 

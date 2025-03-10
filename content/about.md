@@ -23,4 +23,4 @@ marathons, triatlons and trailrunning competitions.
 
 You can find my full cv on [LinkedIn](https://www.linkedin.com/in/olbrew/) or here in a [PDF](/CV-OlivierBrewaeys-2024.pdf).
 
-If you like to contact me, send me an email at **[olivier at olbrew dot me]** or DM me on [Twitter](https://twitter.com/olbrew).
+If you like to contact me, send me an email at **[olivier at olbrew dot me]** or reach out to me on [Mastodon](https://mastodon.social/@ob).
