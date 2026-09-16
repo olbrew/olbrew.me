@@ -1,5 +1,5 @@
 baseURL: https://olbrew.me
-languageCode: en-us
+locale: en-us
 defaultContentLanguage: en
 title: Olivier Brewaeys
 pygmentsCodefences: true
@@ -48,4 +48,4 @@ menu:
     - name: About
       url: about/
     - name: CV
-      url: CV-OlivierBrewaeys-2024.pdf
+      url: CV-OlivierBrewaeys.pdf
